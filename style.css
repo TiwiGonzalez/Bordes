@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+input {
+    margin: 5px;
+    padding: 6px 9px;
+    color: greenyellow;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    color: greenyellow;
+    
+}
